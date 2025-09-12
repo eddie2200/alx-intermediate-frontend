@@ -1,0 +1,5 @@
+
+Steps used to download SASS
+1. I opened mt termina on ubuntu (linux)
+2. Entered th command npm install sass@1.69.0
+3. Download is complete which is shown when you enter the command npm install sass -v 3.7.4 an it printed out the number of the version downloaded
